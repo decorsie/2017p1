@@ -125,6 +125,8 @@ char* tr_identify(struct sound_seg* target, struct sound_seg* ad){
     return NULL;
 }
 
+//test
+
 // Insert a portion of src_track into dest_track at position destpos
 void tr_insert(struct sound_seg* src_track,
             struct sound_seg* dest_track,
@@ -133,5 +135,6 @@ void tr_insert(struct sound_seg* src_track,
 }
 
 int main(){
-    
+    //hello 
+    // yay
 }
